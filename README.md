@@ -1,68 +1,94 @@
 <div align="center">
 
 # 👨‍💻 Ranjeet Singh
-### Full-Stack & Mobile Software Engineer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=1212Ranjeet&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/1212Ranjeet)
-[![GitHub Streak](https://img.shields.io/badge/GitHub-Active%20Contributor-2ea44f?style=flat-square&logo=github)](https://github.com/1212Ranjeet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com)
+<!-- Dynamic Typing Animation -->
+<a href="https://github.com/1212Ranjeet">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Full-Stack+%26+Mobile+Software+Engineer;React+Native+%26+Expo+App+Developer;Node.js%2C+Express+%26+Prisma+Architect;Cloud%2C+FinTech+%26+High-Scale+Systems" alt="Typing SVG" />
+</a>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/1212Ranjeet">
+    <img src="https://komarev.com/ghpvc/?username=1212Ranjeet&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/1212Ranjeet">
+    <img src="https://img.shields.io/badge/Status-Building%20Cool%20Things-brightgreen?style=flat-square&logo=visualstudiocode" alt="Status" />
+  </a>
+  <a href="https://github.com/1212Ranjeet">
+    <img src="https://img.shields.io/badge/Open%20To-Collaborations-blueviolet?style=flat-square" alt="Collaborations" />
+  </a>
+</p>
 
-> *Passionate software engineer specializing in **React Native**, **TypeScript**, and **Node.js** ecosystems. Dedicated to engineering robust mobile architectures, resilient backend microservices, and sleek, performant user interfaces.*
+<p align="center">
+  <a href="#-featured-projects-click-to-explore"><b>Explore Projects</b></a> •
+  <a href="#%EF%B8%8F-technical-arsenal"><b>Tech Stack</b></a> •
+  <a href="#-github-metrics--insights"><b>Activity Metrics</b></a> •
+  <a href="#-get-in-touch"><b>Get In Touch</b></a>
+</p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 💡 About Me
 
-- 📱 **Mobile Development:** Building native-grade iOS & Android applications using **React Native**, **Expo**, **Gluestack UI**, and **Tailwind CSS**.
-- ⚙️ **Backend Engineering:** Architecting scalable REST APIs, microservices, and authentication flows with **Node.js**, **Express**, **Prisma ORM**, and **PostgreSQL**.
-- ☁️ **Cloud & Storage:** Designing secure file pipelines and media workflows using **AWS S3**, presigned URLs, and optimized image processing.
-- 🎨 **Modern Frontend:** Crafting responsive, accessible web interfaces in **React.js** and **Next.js**.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-#### Languages & Core
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-</p>
-
-#### Mobile & Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-</p>
-
-#### Backend, Database & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+```javascript
+const ranjeet = {
+  name: "Ranjeet Singh",
+  title: "Full-Stack & Mobile Software Engineer",
+  specialization: ["Mobile Apps (iOS & Android)", "Scalable Backend Microservices"],
+  coreStack: ["React Native", "TypeScript", "Node.js", "Express", "PostgreSQL", "Prisma"],
+  currentPassion: "Building high-performance, real-time products with seamless UX",
+  status: "Always learning, refactoring, and optimizing 🚀"
+};
+```
 
 ---
 
-### 📊 GitHub Activity
+### 🌟 Featured Projects (Click to explore)
+
+| Project | Tech Highlights | Overview & Links |
+| :--- | :--- | :--- |
+| 🛠️ [**WorkSphere Market**](https://github.com/1212Ranjeet/WorkSphere-Market-Place-) | `TypeScript` `React` `Node.js` `WebRTC` `Socket.io` | **On-demand service marketplace** connecting customers with verified professionals, featuring real-time messaging, WebRTC calling signaling, and responsive layouts.<br/>👉 [**View Source Code**](https://github.com/1212Ranjeet/WorkSphere-Market-Place-) |
+| ⚙️ [**Backend API Core**](https://github.com/1212Ranjeet/Ranjeet-Backend) | `Node.js` `Express` `MongoDB` `JWT` `REST API` | **Modular backend infrastructure** featuring token-based authentication, structured MVC controller layers, robust schema modeling, and production-grade error handling.<br/>👉 [**View Repository**](https://github.com/1212Ranjeet/Ranjeet-Backend) |
+| 🎮 [**Color Cord Game**](https://github.com/1212Ranjeet/COLOR-CORD) | `JavaScript` `CSS3` `DOM Manipulation` `Audio FX` | **Interactive Simon-Says memory challenge game** featuring dynamic audio cues, state-driven sequence progression, CSS animations, and instant touch/keyboard triggers.<br/>👉 [**Play Game / Inspect Code**](https://github.com/1212Ranjeet/COLOR-CORD) |
+| 🌐 [**BrightWave Agency**](https://github.com/1212Ranjeet/BrightWave-Digital) | `HTML5` `CSS3` `Responsive UI` `SEO` | **Digital marketing agency landing page** crafted with modern responsive grid layouts, silky smooth CSS animations, and mobile-first architecture.<br/>👉 [**Explore Project**](https://github.com/1212Ranjeet/BrightWave-Digital) |
+
+---
+
+### 🛠️ Technical Arsenal
+
+<details open>
+<summary><b>📱 Mobile & Frontend Ecosystem (Click to collapse/expand)</b></summary>
+<br/>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Mobile Frameworks** | React Native, Expo, Gluestack UI, React Navigation, NativeWind, Vector Icons |
+| **Web Frontend** | React.js, Next.js, Redux Toolkit, Context API, Tailwind CSS, SASS/SCSS, HTML5 |
+| **Languages** | TypeScript, Modern ES6+ JavaScript, HTML5, CSS3, Python |
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend, Databases & Cloud (Click to collapse/expand)</b></summary>
+<br/>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend & APIs** | Node.js, Express.js, RESTful Architecture, Middleware, WebSockets |
+| **Databases & ORM** | PostgreSQL, Prisma ORM, MongoDB, Mongoose, MySQL |
+| **Cloud & Storage** | AWS S3 (Presigned URLs & Media Processing), Docker, Git, GitHub Actions |
+| **Developer Tools** | Postman, VS Code, Linux/macOS CLI, Zsh, Figma |
+
+</details>
+
+---
+
+### 📊 GitHub Metrics & Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1212Ranjeet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Ranjeet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1212Ranjeet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1212Ranjeet&layout=compact&theme=tokyonight&hide_border=true" width="47%" alt="Top Languages" />
 </div>
 
@@ -72,15 +98,41 @@
 
 ---
 
-### 📬 Let's Connect!
-
-Feel free to reach out for collaborations, project inquiries, or software engineering opportunities:
-
-- **GitHub:** [@1212Ranjeet](https://github.com/1212Ranjeet)
-- **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)
-
-<br/>
+### 💭 Daily Developer Wisdom
 
 <div align="center">
-  <sub>⚡ Engineered with passion for clean code, performance, and scalability.</sub>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
+### ⚡ Quick Interactive Facts
+
+<details>
+<summary><b>🔍 Tap to reveal 5 quick facts about my dev workflow!</b></summary>
+<br/>
+
+1. ☕ **Fuel of Choice:** Dark coffee and lo-fi beats while building async flows.
+2. 🎯 **Favorite Bug Hunt:** Chasing race conditions and memory leaks until performance is rock solid.
+3. 📱 **Mobile Standard:** If an interaction drops below 60 FPS, it's not ready to ship.
+4. 🏗️ **Architecture Mindset:** Write code that junior developers can easily understand and seniors enjoy reviewing.
+5. 🎧 **Current Focus:** Leveling up on distributed cloud patterns and scalable fintech microservices.
+
+</details>
+
+---
+
+### 📬 Get In Touch
+
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/1212Ranjeet">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+</p>
+
+<div align="center">
+  <sub>⭐ Drop a star on any repositories you find interesting! Thanks for stopping by.</sub>
 </div>
